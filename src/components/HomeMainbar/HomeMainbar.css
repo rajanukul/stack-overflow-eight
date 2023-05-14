@@ -18,7 +18,7 @@
 .main-bar-header .ask-btn {
   padding: 10px 15px;
   border-radius: 4px;
-  background-color: #009dff;
+  background-color: linear-gradient(98.63deg, #BA55D3 0%, #9370DB 100%);
   color: white;
   border: none;
   text-decoration: none;
