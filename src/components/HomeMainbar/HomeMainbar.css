@@ -18,7 +18,8 @@
 .main-bar-header .ask-btn {
   padding: 10px 15px;
   border-radius: 4px;
-  background-color: linear-gradient(98.63deg, #BA55D3 0%, #9370DB 100%);
+  background: rgb(221,214,240);
+  background: linear-gradient(90deg, rgba(221,214,240,1) 35%, rgba(147,112,219,1) 100%);
   color: white;
   border: none;
   text-decoration: none;
