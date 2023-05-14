@@ -12,7 +12,7 @@ const AboutAuth = () => {
         Collaborate and share knowledge with a private group for
       </p>
       <p style={{ fontSize: "13px", color: "#007ac6" }}>
-        Get Stack Overflow for Teams free for up to 50 users.
+        Get ChitaChat for Teams free for up to 50 users.
       </p>
     </div>
   );
